@@ -1,17 +1,9 @@
-<svg width="20" height="69" viewBox="0 0 20 69" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g filter="url(#filter0_d_766_29)">
-<path d="M10 9.5V59.5" stroke="#81B2EF" stroke-width="2" stroke-linecap="round"/>
-</g>
-<defs>
-<filter id="filter0_d_766_29" x="0.7" y="0.2" width="18.6" height="68.6" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-<feOffset/>
-<feGaussianBlur stdDeviation="4.15"/>
-<feComposite in2="hardAlpha" operator="out"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0.505882 0 0 0 0 0.698039 0 0 0 0 0.937255 0 0 0 1 0"/>
-<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_766_29"/>
-<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_766_29" result="shape"/>
-</filter>
-</defs>
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 69" width="20" height="69">
+	<title>status (1)</title>
+	<defs>
+		<image  width="4" height="53" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAA1AgMAAAAbuaLlAAAAAXNSR0IB2cksfwAAAAxQTFRFAAAA9H8y/38n/38npek9rQAAAAR0Uk5TAN6e//ZENrkAAAAPSURBVHicYxRh3EcXKAIA6msmODvUGScAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="8" y="8"/>
 </svg>
