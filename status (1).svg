@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 69" width="20" height="69">
+	<title>status (1)</title>
+	<defs>
+		<image  width="4" height="53" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAA1AgMAAAAbuaLlAAAAAXNSR0IB2cksfwAAAAxQTFRFAAAA9H8y/38n/38npek9rQAAAAR0Uk5TAN6e//ZENrkAAAAPSURBVHicYxRh3EcXKAIA6msmODvUGScAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="8" y="8"/>
+</svg>
